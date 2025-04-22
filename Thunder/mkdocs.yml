@@ -1,13 +1,13 @@
-site_name: Thunder
-site_url: https://rdkcentral.github.com/Thunder
+site_name: MyDoc/Thunder
+site_url: https://YangKangSky.github.com/MyDoc/Thunder
 
-repo_name: rdkcentral/Thunder
-repo_url: https://github.com/rdkcentral/Thunder/
+repo_name: YangKangSky/MyDoc/Thunder
+repo_url: https://github.com/YangKangSky/MyDoc/Thunder/
 
 nav:
   - Home: index.md
   - Introduction:
-    - What is Thunder: introduction/intro.md
+    - What is MyDoc/Thunder: introduction/intro.md
     - Getting Started:
       - Repository Structure: introduction/repos.md
       - Linux Build: introduction/build_linux.md
@@ -47,7 +47,7 @@ nav:
     - Split Implementation: plugin/split-implementation.md
     - Composite Plugins: plugin/composite.md
     - Plugin Development Tools:
-      - ThunderDevTools: plugin/devtools/devtools.md
+      - MyDoc/ThunderDevTools: plugin/devtools/devtools.md
       - Plugin Skeleton Generator: plugin/devtools/pluginskeletongenerator.md
   - Common Utilities:
     - Strings: utils/strings.md
@@ -72,7 +72,7 @@ nav:
     - COM-RPC App: client/com-rpc.md
   - Debugging:
     - Debug Tips: debugging/debug.md
-    - ThunderShark: debugging/thundershark.md
+    - MyDoc/ThunderShark: debugging/MyDoc/Thundershark.md
   - Walkthrough:
     - Hello World:
       - Workspace setup: walkthrough/hello-world/setup.md
